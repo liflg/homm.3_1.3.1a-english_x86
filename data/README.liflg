@@ -1,0 +1,50 @@
+
+		Heroes of Might and Magic 3: English version 1.3.1a
+		   (http://www.lokigames.com/products/heroes3/)
+
+========================================
+
+ABOUT
+====
+
+	This is an updated installer for the Loki version of Heroes 
+	of Might and Magic 3.
+	It contains the most recent patch and some workarounds to 
+	get this game working with current Linux distributions.
+	There is also the (highly unstable) map editor included.
+
+SYSTEM REQUIREMENTS
+==============
+
+	- The Loki Heroes of Might and Magic 3 disc
+
+RUNNING THE GAME
+============
+
+	Run "homm3.dynamic.sh" to play or "h3maped.sh"
+	to start the map editor.
+
+NOTES
+====
+
+	- Loki-Compat-Libs are from http://www.swanson.ukfsn.org/loki/
+
+	- for infos about the map editor, have a look at the included
+	  README
+
+	- for hosting multiplayer games with 2 players, you need to 
+	  open TCP port 4269
+
+	- for playing with more than 2 players, EVERY player has to 
+	  have TCP port 4269 open 
+
+	- use the IP address to connect to the server, using domain names
+	  will crash the game
+
+TECHNICAL SUPPORT
+=============
+
+	Website: http://liflg.org/
+	Forum:   http://liflg.org/forum/
+
+The Loki Installers for Linux Gamers Team
